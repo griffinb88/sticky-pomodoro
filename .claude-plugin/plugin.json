@@ -1,0 +1,14 @@
+{
+  "name": "sticky-pomodoro",
+  "displayName": "Sticky Pomodoro",
+  "version": "1.0.0",
+  "description": "A small always-on-top Pomodoro timer window for Windows with adjustable work and break lengths. It is for you, not Claude: Claude keeps working while the timer runs.",
+  "author": {
+    "name": "griffinb88",
+    "url": "https://github.com/griffinb88"
+  },
+  "homepage": "https://github.com/griffinb88/sticky-pomodoro",
+  "repository": "https://github.com/griffinb88/sticky-pomodoro",
+  "license": "MIT",
+  "keywords": ["pomodoro", "timer", "focus", "breaks", "windows"]
+}

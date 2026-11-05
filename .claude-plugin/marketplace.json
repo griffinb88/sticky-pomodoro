@@ -1,0 +1,17 @@
+{
+  "name": "sticky-pomodoro",
+  "owner": {
+    "name": "griffinb88",
+    "url": "https://github.com/griffinb88"
+  },
+  "metadata": {
+    "description": "Sticky Pomodoro: an always-on-top work and break timer for Windows."
+  },
+  "plugins": [
+    {
+      "name": "sticky-pomodoro",
+      "source": "./",
+      "description": "A small always-on-top Pomodoro timer window for Windows with adjustable work and break lengths."
+    }
+  ]
+}
