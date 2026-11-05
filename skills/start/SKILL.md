@@ -7,7 +7,7 @@ Open the timer window by running this script once with the shell tool. It return
 window stays open on its own:
 
 ```
-"${CLAUDE_PLUGIN_ROOT}/scripts/start.cmd"
+"${CLAUDE_PLUGIN_ROOT}/bin/sticky-pomodoro.cmd"
 ```
 
 Then tell the user the timer is in the upper right of their screen, paused until they press start,

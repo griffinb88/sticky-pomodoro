@@ -31,13 +31,14 @@ The timer appears in the upper right of your screen, paused at 25:00.
 
 ## Requirements
 
-Windows with .NET Framework 4, which Windows 10 and 11 include. No other operating system is
-supported.
+Claude Code on Windows with .NET Framework 4, which Windows 10 and 11 include. No other operating
+system is supported, and it doesn't run in Cowork or the Claude web and mobile apps.
 
 ## How it works, and what it touches
 
-On first use, `scripts/start.cmd` compiles `src/StickyPomodoro.cs` with the C# compiler included with
-Windows and opens the result. The repository contains no compiled programs.
+On first use, `bin/sticky-pomodoro.cmd` compiles `src/StickyPomodoro.cs` with the C# compiler included
+with Windows and opens the result, so the plugin runs a program on your computer. Claude Code asks your
+permission before running the script. The repository contains no compiled programs.
 
 - **Network:** none. It downloads nothing and sends nothing.
 - **Data collected:** none.
