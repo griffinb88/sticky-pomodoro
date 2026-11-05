@@ -9,6 +9,8 @@
   },
   "homepage": "https://github.com/griffinb88/sticky-pomodoro",
   "repository": "https://github.com/griffinb88/sticky-pomodoro",
+  "supportUrl": "https://github.com/griffinb88/sticky-pomodoro/issues",
+  "documentationUrl": "https://github.com/griffinb88/sticky-pomodoro#readme",
   "license": "MIT",
   "keywords": ["pomodoro", "timer", "focus", "breaks", "windows"]
 }
